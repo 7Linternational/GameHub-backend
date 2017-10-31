@@ -1,0 +1,1 @@
+from Gamehub import app as application
