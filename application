@@ -1,1 +1,5 @@
+import sys
+
+sys.path.append('/opt/shared/webroot/ROOT')
+
 from Gamehub import app as application
